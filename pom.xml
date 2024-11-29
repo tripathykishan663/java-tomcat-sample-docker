@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   	<distributionManagement>
 	   <snapshotRepository>
-		  <id>nexus-snapshots</id>
+		  <id>maven-snapshots</id>
 		  <url>http://172.16.16.101:8081/repository/maven-snapshots</url>
 	   </snapshotRepository>
 	   <repository>
